@@ -1,0 +1,39 @@
+{
+  "Libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Redux y Hook v7",
+      "precio": "35"
+    },
+    {
+      "id": 2,
+      "nombre": "React y Redux",
+      "precio": 40
+    },
+    {
+      "id": 6,
+      "nombre": "JAVASCRIPT 0 a mas",
+      "precio": "25"
+    },
+    {
+      "nombre": "Libro C# experto",
+      "precio": "50",
+      "id": 7
+    },
+    {
+      "nombre": "Aprender Fundamentos Programacion",
+      "precio": "20",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "nombre": "libro javascript",
+      "precio": "50"
+    },
+    {
+      "id": 10,
+      "nombre": "Drogas y mas",
+      "precio": "100"
+    }
+  ]
+}
